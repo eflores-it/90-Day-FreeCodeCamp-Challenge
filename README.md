@@ -10,4 +10,8 @@ A 90-day challenge to build consistent programming skills through FreeCodeCamp, 
 
 ## Projects
 
-- [Camperbot Profile Page](https://github.com/eflores-it/90-Day-FreeCodeCamp-Challenge/blob/main/projects/camperbot-profile-page/index.html)
+### Camper Profile Debugging
+
+[🔴 View Broken Code](./camper-profile-broken.html)
+
+[🟢 View Fixed Code](./camper-profile.html)
