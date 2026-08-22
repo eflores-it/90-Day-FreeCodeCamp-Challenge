@@ -14,4 +14,4 @@ A 90-day challenge to build consistent programming skills through FreeCodeCamp, 
 
 [🔴 View Broken Code](https://github.com/eflores-it/90-Day-FreeCodeCamp-Challenge/blob/main/projects/camperbot-profile-page/camper-profile-broken.html)
 
-[🟢 View Fixed Code](./camper-profile.html)
+[🟢 View Fixed Code](https://github.com/eflores-it/90-Day-FreeCodeCamp-Challenge/blob/main/projects/camperbot-profile-page/index.html)
