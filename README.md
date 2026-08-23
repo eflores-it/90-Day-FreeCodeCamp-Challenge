@@ -7,6 +7,7 @@ A 90-day challenge to build consistent programming skills through FreeCodeCamp, 
 | Day | Topic | Notes |
 |---|---|---|
 | 1 | Responsive Web Design | [Day 1 Notes](days/day-01.md) |
+| 2 | HTML Attributes & HTML Basics | [Day 2 Notes](https://github.com/eflores-it/90-Day-FreeCodeCamp-Challenge/blob/main/days/day-02.md) |
 
 ## Projects
 
