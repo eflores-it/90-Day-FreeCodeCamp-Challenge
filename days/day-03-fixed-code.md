@@ -55,3 +55,4 @@ Time spent: 5 minutes
 Topic: HTML Debugging
 Project: Debug a Pet Adoption Page
 Skills practiced: HTML elements, attributes, images, hyperlinks, debugging
+
