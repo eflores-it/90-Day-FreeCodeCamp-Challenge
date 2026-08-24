@@ -21,4 +21,4 @@ A 90-day challenge to build consistent programming skills through FreeCodeCamp, 
 
 [🔴 View Broken Code](https://github.com/eflores-it/90-Day-FreeCodeCamp-Challenge/blob/main/days/day-03-broken-code.md)
 
-[🟢 View Fixed Code](https://github.com/eflores-it/90-Day-FreeCodeCamp-Challenge/blob/main/projects/pet-adoption-page/index.html)
+[🟢 View Fixed Code](https://github.com/eflores-it/90-Day-FreeCodeCamp-Challenge/blob/main/days/day-03-fixed-code.md)
