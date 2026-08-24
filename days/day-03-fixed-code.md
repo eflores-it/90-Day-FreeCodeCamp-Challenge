@@ -49,7 +49,9 @@ The original code incorrectly used src.
 
 What I Learned
 
-This challenge helped me practice identifying common HTML syntax and attribute errors. I learned the difference between src and href, how the alt attribute is used for images, and that <img> is a void element that does not require a closing tag.
+This challenge helped me practice identifying common HTML syntax and attribute errors.
+I learned the difference between src and href,
+how the alt attribute is used for images, and that <img> is a void element that does not require a closing tag.
 
 Time spent: 5 minutes
 Topic: HTML Debugging
