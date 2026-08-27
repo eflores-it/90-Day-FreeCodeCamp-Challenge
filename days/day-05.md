@@ -13,3 +13,5 @@ I also completed a quiz that tested my knowledge of HTML boilerplate and the con
 Takeaway
 
 I learned that an HTML boilerplate provides the basic structure for an HTML document and makes it easier to begin building webpages correctly. I also used the quiz to test and reinforce what I learned.
+
+Time spent 5 minutes
