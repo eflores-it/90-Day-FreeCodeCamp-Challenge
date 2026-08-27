@@ -14,4 +14,6 @@ Takeaway
 
 I learned that an HTML boilerplate provides the basic structure for an HTML document and makes it easier to begin building webpages correctly. I also used the quiz to test and reinforce what I learned.
 
-Time spent 5 minutes
+Time spent: 5 minutes
+What I learned: Reviewed HTML attributes and practiced a few exercises.
+Reflection: Short session today, but kept the challenge going.
