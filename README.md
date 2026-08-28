@@ -11,7 +11,7 @@ A 90-day challenge to build consistent programming skills through FreeCodeCamp, 
 | 3 | HTML Debugging                | [Day 3 Notes](https://github.com/eflores-it/90-Day-FreeCodeCamp-Challenge/blob/main/days/day-03.md) |
 | 4 | HTML Link Element & External CSS | [Day 4 Notes](https://github.com/eflores-it/90-Day-FreeCodeCamp-Challenge/blob/main/days/day-04.md) |
 | 5 | HTML Boilerplate | [Day 5 Notes](https://github.com/eflores-it/90-Day-FreeCodeCamp-Challenge/blob/main/days/day-05.md) |
-| 6 | Missed Day |    |[Day 6 Notes](https://github.com/eflores-it/90-Day-FreeCodeCamp-Challenge/blob/main/days/day-06.md)
+| 6 | Missed Day | [Day 6 Notes](https://github.com/eflores-it/90-Day-FreeCodeCamp-Challenge/blob/main/days/day-06.md) |
 
 ## Projects
 
